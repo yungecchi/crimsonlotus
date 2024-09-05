@@ -1,0 +1,128 @@
+#herzeleid {
+width:500px;
+background-image:url('https://k.nickpic.host/BkCt8P.png');
+padding:20px;
+border:5px solid #111;
+}
+
+.herz1 {
+background-color:#111;
+padding:20px;
+border:1px solid #000;
+}
+
+#herztable {
+width:450px;
+padding:5px;
+font-family:verdana;
+color:#ccc;
+font-size:11px;
+text-align:justify;
+line-height:11px;
+}
+
+.herzname {
+font-family: 'Abril Fatface', cursive;
+color:#ffffff;
+font-size:15px;
+text-align:center;
+padding:10px;
+text-transform:uppercase;
+text-shadow:1px 1px #000;
+background-color:#222;
+border:1px solid #000;
+line-height: 1;
+}
+
+.herznick {
+font-family: 'Abril Fatface', cursive;
+color:#6678b8;
+font-size:25px;
+text-align:center;
+padding:15px;
+text-transform:lowercase;
+text-shadow:1px 1px #000;
+background-color:#222;
+border:1px solid #000;
+line-height: 1;
+}
+
+.herzicon {
+width:150px;
+height:150px;
+background-color:#6678b8;
+padding:10px;
+border:1px solid #000;
+}
+
+.herzpic {
+width:200px;
+height:350px;
+background-color:#6678b8;
+padding:10px;
+margin-right: 10px;
+border:1px solid #000;
+float: left;
+}
+
+.herz2 {
+background-color:#222;
+border:1px solid #000;
+padding:10px;
+width:417px;
+font-family:verdana;
+text-align:justify;
+font-size:11px;
+color:#ccc;
+margin-bottom:6px;
+}
+
+.herz2a {
+color:#6678b8;
+font-weight:bold;
+text-transform:uppercase;
+display:inline-block;
+margin-bottom:7px;
+overflow-wrap: normal;
+}
+
+.herz3 {
+font-family: 'Abril Fatface', cursive;
+color:#6678b8;
+font-size:15px;
+text-align:center;
+padding:10px;
+text-transform:uppercase;
+text-shadow:1px 1px #000;
+letter-spacing:.5px;
+}
+
+.herz4 {
+color:#6678b8;
+font-size:11px;
+text-align:center;
+padding:10px;
+text-transform:uppercase;
+letter-spacing:.5px;
+}
+
+.herz5 {
+font-size:11px;
+text-align:center;
+padding:10px;
+text-transform:uppercase;
+letter-spacing:.5px;
+}
+
+.herz6 {
+font-size:11px;
+padding:10px;
+text-transform:uppercase;
+letter-spacing:.5px;
+}
+
+
+.herz2b {
+color:#ccc;
+display:inline-block;
+}
