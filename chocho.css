@@ -1,0 +1,56 @@
+body {
+--mainfont: 'Nunito Sans', sans-serif;
+--b3: #333;
+--mono: 'source-code-pro', monospace;
+--clr1: 255, 53, 128,;
+--clr2: 102, 120, 184,;
+--clr3: 150, 165, 204,;
+
+#herzeleid {
+background-image:url('https://k.nickpic.host/BkCt8P.png');
+padding:20px;
+border:5px solid #111;
+}
+
+.herz1 {
+background-color:#111;
+padding:10px;
+border:1px solid #000;
+}
+
+.herz2 {
+background-color:#222;
+border:1px solid #000;
+padding:10px;
+font-family:verdana;
+font-size:11px;
+color:#ccc;
+margin-bottom:6px;
+}
+
+.mortpost-1 {
+    padding: 45px 50px;
+    font: 15px / 23px var(--mainfont);
+}
+
+.mortpost-1 hr { display: block;
+    height: 1px;
+    border: 0;
+    background: var(--b3);
+    margin: 21px 0 0;
+}
+
+.mortpost-1 b {
+    font: 600 14px var(--mono);
+    background: transparent linear-gradient(45deg, rgba(var(--clr1) .25), rgba(var(--clr2) .25), rgba(var(--clr3) .25)) no-repeat right bottom;
+    background-size: 100% 90%;
+    padding: 5px 10px 1px;
+    letter-spacing: -.5px;
+    border-radius: 6px;
+}
+
+.mortpost-1 i {
+    font: 500 italic 14.5px var(--mono);
+    letter-spacing: -1px;
+    color: inherit;
+  }
