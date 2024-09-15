@@ -3,7 +3,7 @@ body {
 --b3: #333;
 --mono: 'source-code-pro', monospace;
 --ggradient: radial-gradient(circle, rgba(var(--gbg1), 0.9) 0%, rgba(var(--gbg2), 0.9) 85%);
---gbg1: 139, 105, 152;
+--gbg1: 76, 25, 30;
 --gbg2: 91, 113, 172;
 
 #herzeleid {
