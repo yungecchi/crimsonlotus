@@ -110,11 +110,6 @@ body {
     color: var(--ac2);
 }
 
-a:link, a:visited, a:active {
-    text-decoration: none;
-    color: var(--ac2);
-}
-
 .mortpost-3 hr { display: block;
     height: 1px;
     border: 0;
