@@ -70,8 +70,8 @@ body {
     justify-content: center;
     z-index: 1;
     position: absolute;
-    right: -10px;
-    top: -60px;
+    right: -20px;
+    top: -30px;
     background: var(--b1);
 }
 
