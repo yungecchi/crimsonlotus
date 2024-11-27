@@ -33,11 +33,6 @@ body {
   --accentBlue: #ca6464 !important;
 }
 
-.postbod {
-  padding: 20px;
-  margin: auto;
-  border-radius: 30px;
-}
 
 .epi-pst05 { box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;  margin: auto; min-height: 300px; width: 500px; background: var(--lightBlack2); border-radius: 15px; position: relative; }
 .epi-pst05:after { content: ""; display: block; width: 100%; height: 100px; background: linear-gradient(180deg, transparent 20%, var(--accentBlue)); border-radius: 0px 0px 15px 15px; }
