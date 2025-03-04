@@ -142,12 +142,12 @@ body {
 }
 
 .stultpost-4 .post-body div u {
-  text-decoration-color: var(--customaccent);
+  text-decoration-color: #653232;
   text-underline-offset: 6px;
 }
 
  .stultpost-4 .post-body div strong,  .stultpost-4 .post-body div b {
-    color: var(--customaccent);
+    color: #653232;
 }
 
 .stultpost-4 .post-body div em, .stultpost-4 .post-body div i {
