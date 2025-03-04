@@ -9,6 +9,7 @@ body {
 
   --groupgrad: linear-gradient(
     0deg,
+    
     var(--stdarktext) 0%,
     var(--customaccent) 60%
   );
@@ -75,7 +76,7 @@ body {
   width: 300px;
   margin-top: 45px;
   margin-left: 30px;
-  background: linear-gradient(100deg, var(--customaccent), var(--stback2) 250%);
+  background: linear-gradient(100deg, #653232, var(--stback2) 250%);
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
@@ -96,7 +97,7 @@ body {
   top: 20px;
   outline: 1px solid var(--stborder);
   border: 10px solid var(--lightBlack1);
-  background: linear-gradient(155deg, var(--customaccent), var(--stback2) 150%);
+  background: linear-gradient(155deg, #653232, var(--stback2) 150%);
   border-radius: 100%;
   width: 70px;
   height: 70px;
@@ -267,7 +268,7 @@ overflow: hidden;
 }
 
 .stultnote span code {
-  border-left: solid 2px var(--customaccent);
+  border-left: solid 2px #653232;
   font-family: space grotesk;
     padding-left: 13px;
     line-height: 15px;
